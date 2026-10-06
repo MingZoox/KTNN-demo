@@ -1,0 +1,16 @@
+::view-transition-old(audit-chat-pane) {
+  animation: 140ms cubic-bezier(.4, 0, 1, 1) both audit-pane-out;
+}
+::view-transition-new(audit-chat-pane) {
+  animation: 210ms cubic-bezier(0, 0, .2, 1) both audit-pane-in;
+}
+@keyframes audit-pane-out {
+  to { opacity: 0; transform: translateY(-5px); }
+}
+@keyframes audit-pane-in {
+  from { opacity: 0; transform: translateY(7px); }
+}
+@media (prefers-reduced-motion: reduce) {
+  ::view-transition-old(audit-chat-pane),
+  ::view-transition-new(audit-chat-pane) { animation-duration: .01ms; }
+}

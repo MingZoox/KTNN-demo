@@ -1,0 +1,74 @@
+[
+  {
+    "sheet": 1,
+    "components": [
+      "AdviceIcon",
+      "ArrowRightIcon",
+      "Badge",
+      "BellIcon",
+      "Button",
+      "Card",
+      "CheckIcon",
+      "ChecksIcon",
+      "ChevronDownIcon",
+      "ClockIcon",
+      "CloseIcon",
+      "CopyIcon",
+      "DateTimePicker",
+      "DownloadIcon",
+      "ExternalLinkIcon",
+      "EyeIcon"
+    ]
+  },
+  {
+    "sheet": 2,
+    "components": [
+      "FileBadge",
+      "FileIcon",
+      "FileTextIcon",
+      "FillIcon",
+      "FlagIcon",
+      "FolderIcon",
+      "IconButton",
+      "InfoIcon",
+      "MenuIcon",
+      "MicIcon",
+      "NoteIcon",
+      "PaperclipIcon",
+      "PathIcon",
+      "PencilIcon",
+      "PendingNote",
+      "PinIcon"
+    ]
+  },
+  {
+    "sheet": 3,
+    "components": [
+      "PlusIcon",
+      "PresetChip",
+      "RefChip",
+      "RefreshIcon",
+      "ReplyIcon",
+      "RoleBadge",
+      "SearchIcon",
+      "SectionLabel",
+      "SegmentedControl",
+      "SendPlaneIcon",
+      "ShieldIcon",
+      "SingleCheckIcon",
+      "SparkleIcon",
+      "StatusChip",
+      "SummaryIcon",
+      "Toggle"
+    ]
+  },
+  {
+    "sheet": 4,
+    "components": [
+      "TrashIcon",
+      "UploadIcon",
+      "UsersIcon",
+      "WarningIcon"
+    ]
+  }
+]

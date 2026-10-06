@@ -1,0 +1,33 @@
+/* Spacing & radii — lưới cơ sở 4px */
+
+:root {
+  --space-1:  0.25rem;
+  --space-2:  0.5rem;
+  --space-3:  0.75rem;
+  --space-4:  1rem;
+  --space-5:  1.25rem;
+  --space-6:  1.5rem;
+  --space-8:  2rem;
+
+  --radius-xs:   4px;
+  --radius-sm:   6px;
+  --radius-md:   10px;
+  --radius-lg:   14px;
+  --radius-xl:   20px;
+  --radius-pill: 999px;
+
+  /*
+   * Lưới cột bảng văn bản. Ở ĐÂY vì có HAI nơi phải dùng đúng một giá trị —
+   * `DocTableHead` (hàng tiêu đề) và `IncomingDocRow` (hàng dữ liệu). Trước đây mỗi bên
+   * chép một bản: lệch nhau là tiêu đề không còn thẳng cột với dữ liệu, mà không có gì
+   * báo — không lỗi biên dịch, không test đỏ, chỉ là bảng trông sai.
+   */
+  --grid-incoming:
+    minmax(78px, 94px) minmax(64px, 88px) minmax(88px, 122px) minmax(150px, 1.5fr)
+    minmax(84px, 116px) minmax(104px, 0.85fr) minmax(70px, 92px);
+  --grid-outgoing:
+    minmax(94px, 128px) minmax(170px, 1fr) minmax(110px, 150px) minmax(150px, 200px);
+
+  --sidebar-width: 236px;
+  --content-max:   1680px;
+}

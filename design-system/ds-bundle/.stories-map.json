@@ -1,0 +1,481 @@
+{
+  "global": "VanbanUI",
+  "pkg": "vanban-dieuhanh-ui",
+  "pkgDir": "/Users/nguyenvanminhvu/Documents/Common/ai-chatbot-demo/frontend",
+  "extraEntries": [],
+  "exported": [
+    "AdviceIcon",
+    "ArrowRightIcon",
+    "Badge",
+    "BellIcon",
+    "Button",
+    "Card",
+    "CheckIcon",
+    "ChecksIcon",
+    "ChevronDownIcon",
+    "ClockIcon",
+    "CloseIcon",
+    "CopyIcon",
+    "DateTimePicker",
+    "DownloadIcon",
+    "ExternalLinkIcon",
+    "EyeIcon",
+    "FileBadge",
+    "FileIcon",
+    "FileTextIcon",
+    "FillIcon",
+    "FlagIcon",
+    "FolderIcon",
+    "IconButton",
+    "InfoIcon",
+    "MenuIcon",
+    "MicIcon",
+    "NoteIcon",
+    "PaperclipIcon",
+    "PathIcon",
+    "PencilIcon",
+    "PendingNote",
+    "PinIcon",
+    "PlusIcon",
+    "PresetChip",
+    "RefChip",
+    "RefreshIcon",
+    "ReplyIcon",
+    "RoleBadge",
+    "SearchIcon",
+    "SectionLabel",
+    "SegmentedControl",
+    "SendPlaneIcon",
+    "ShieldIcon",
+    "SingleCheckIcon",
+    "SparkleIcon",
+    "StatusChip",
+    "SummaryIcon",
+    "Toggle",
+    "TrashIcon",
+    "UploadIcon",
+    "UsersIcon",
+    "WarningIcon"
+  ],
+  "storybookStatic": null,
+  "keyRecipe": 7,
+  "cfgSliceGlobal": "a139d95ad8ab0a8ba08b44a258c54602e36090304087f48fe923c61aa5a8ae08",
+  "components": [
+    {
+      "name": "AdviceIcon",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "4df516633dae83aa",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "ArrowRightIcon",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "65930b7f470cb51b",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "Badge",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "8deedea159f914bb",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "BellIcon",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "2bddf9286f4bbb27",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "Button",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "3bc80818f3abe89a",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "Card",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "093264ef76019ecb",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "CheckIcon",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "3dfa994d468ca4aa",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "ChecksIcon",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "29e8e52b0e0e8ecf",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "ChevronDownIcon",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "ae2c9041093d70cd",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "ClockIcon",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "219f9d3469eff1ba",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "CloseIcon",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "b2b39885c0b9267b",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "CopyIcon",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "f504bed85b07aedc",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "DateTimePicker",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "648552703d34a4de",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "DownloadIcon",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "f84ead7f2c8a586f",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "ExternalLinkIcon",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "914d584dc32d73c5",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "EyeIcon",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "0cffdef12f460fed",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "FileBadge",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "8c81ee6d264729f5",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "FileIcon",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "2e13f5119a2c99c0",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "FileTextIcon",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "84c77ab1471388c5",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "FillIcon",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "fda9f586282759ec",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "FlagIcon",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "998a089a52230625",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "FolderIcon",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "fda8d153a522b528",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "IconButton",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "80bce7dd7d715596",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "InfoIcon",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "28629a9c3c255300",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "MenuIcon",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "9ae4a092de291b51",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "MicIcon",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "4205eb29ad92f0e3",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "NoteIcon",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "78c3d116dfdd58d9",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "PaperclipIcon",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "0dc820d5569e443b",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "PathIcon",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "3f43e7d1d0c72139",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "PencilIcon",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "7958e9d3a7590320",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "PendingNote",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "b7379f756e378340",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "PinIcon",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "ca6deec407f0ded1",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "PlusIcon",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "9f00c3179763b1da",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "PresetChip",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "d7ca90f47052a6e2",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "RefChip",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "9ed9fd3753538a0c",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "RefreshIcon",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "4af6fc03b948d341",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "ReplyIcon",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "4ce360e1bf02f1bd",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "RoleBadge",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "69cbc77c88170df5",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "SearchIcon",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "38406fd6b8ab95cd",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "SectionLabel",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "258985a51a77e1bf",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "SegmentedControl",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "840fb761282619b4",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "SendPlaneIcon",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "361cfbd295c2e631",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "ShieldIcon",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "51b5e4e739d47926",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "SingleCheckIcon",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "cc1808c303b5c4fd",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "SparkleIcon",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "6612c28357f639fd",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "StatusChip",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "c98cce47be563e09",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "SummaryIcon",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "7ec9bb139895dcff",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "Toggle",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "4ea91f544fa1a981",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "TrashIcon",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "352b75fe31b35eca",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "UploadIcon",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "1cde1a1b609ddf41",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "UsersIcon",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "ad5056b3c2a31477",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    },
+    {
+      "name": "WarningIcon",
+      "group": "general",
+      "srcSha": null,
+      "sourceKey": "c5a914cf8c397b35",
+      "cfgSlice": "5ff899b099eb6923833804cda955efdd69101524bec86f67dac5537cd81802e8",
+      "stories": []
+    }
+  ]
+}

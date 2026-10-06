@@ -1,0 +1,11 @@
+{
+  "namespace": "VanbanUI",
+  "source": "vanban-dieuhanh-ui@0.3.0",
+  "shape": "package",
+  "provider": null,
+  "componentCount": 52,
+  "skippedStoryIds": [],
+  "runtimeFontPrefixes": [
+    "Cascadia"
+  ]
+}
